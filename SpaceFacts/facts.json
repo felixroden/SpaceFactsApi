@@ -1,0 +1,502 @@
+[
+    {
+        "Text": "The Sun accounts for more than 99% of the mass of the entire solar system.",
+        "Source": "Unknown",
+        "Category": "Sun"
+    },
+    {
+        "Text": "A day on Venus is longer than a year on Venus.",
+        "Source": "Unknown",
+        "Category": "Venus"
+    },
+    {
+        "Text": "Saturn's rings are mostly made of ice and rock particles.",
+        "Source": "Unknown",
+        "Category": "Saturn"
+    },
+    {
+        "Text": "There are more stars in the universe than grains of sand on all Earth's beaches.",
+        "Source": "Unknown",
+        "Category": "Universe"
+    },
+    {
+        "Text": "Light from the Sun takes about 8 minutes and 20 seconds to reach Earth.",
+        "Source": "Unknown",
+        "Category": "Sun"
+    },
+    {
+        "Text": "Jupiter has the strongest magnetic field of all planets in the solar system.",
+        "Source": "Unknown",
+        "Category": "Jupiter"
+    },
+    {
+        "Text": "A black hole's gravity is so strong that not even light can escape.",
+        "Source": "Unknown",
+        "Category": "Black Hole"
+    },
+    {
+        "Text": "Neutron stars can spin hundreds of times per second.",
+        "Source": "Unknown",
+        "Category": "Neutron Star"
+    },
+    {
+        "Text": "The universe is about 13.8 billion years old.",
+        "Source": "Unknown",
+        "Category": "Universe"
+    },
+    {
+        "Text": "The coldest known place in the universe is the Boomerang Nebula, at -272°C.",
+        "Source": "Unknown",
+        "Category": "Nebula"
+    },
+    {
+        "Text": "Mars has the tallest mountain in the solar system, Olympus Mons, almost three times taller than Mount Everest.",
+        "Source": "Unknown",
+        "Category": "Mars"
+    },
+    {
+        "Text": "The International Space Station (ISS) travels at about 28,000 km/h.",
+        "Source": "Unknown",
+        "Category": "ISS"
+    },
+    {
+        "Text": "The Milky Way is about 100,000 light-years in diameter.",
+        "Source": "Unknown",
+        "Category": "Milky Way"
+    },
+    {
+        "Text": "A light-year is the distance light travels in one year – about 9.46 trillion km.",
+        "Source": "Unknown",
+        "Category": "General"
+    },
+    {
+        "Text": "It can rain diamonds on Saturn.",
+        "Source": "Unknown",
+        "Category": "Saturn"
+    },
+    {
+        "Text": "Space is completely silent because sound cannot travel through a vacuum.",
+        "Source": "Unknown",
+        "Category": "Space"
+    },
+    {
+        "Text": "Stars are born in giant clouds of gas and dust called nebulae.",
+        "Source": "Unknown",
+        "Category": "Stars"
+    },
+    {
+        "Text": "The Moon moves about 3.8 cm away from Earth every year.",
+        "Source": "Unknown",
+        "Category": "Moon"
+    },
+    {
+        "Text": "Pluto was reclassified as a dwarf planet in 2006.",
+        "Source": "Unknown",
+        "Category": "Pluto"
+    },
+    {
+        "Text": "The hottest planet in the solar system is Venus, even though Mercury is closer to the Sun.",
+        "Source": "Unknown",
+        "Category": "Venus"
+    },
+    {
+        "Text": "There are more than 200 billion stars in the Milky Way.",
+        "Source": "Unknown",
+        "Category": "Milky Way"
+    },
+    {
+        "Text": "An asteroid killed the dinosaurs about 66 million years ago.",
+        "Source": "Unknown",
+        "Category": "Asteroid"
+    },
+    {
+        "Text": "Sunspots are cooler areas on the Sun's surface.",
+        "Source": "Unknown",
+        "Category": "Sun"
+    },
+    {
+        "Text": "The first human in space was Yuri Gagarin in 1961.",
+        "Source": "Unknown",
+        "Category": "Space History"
+    },
+    {
+        "Text": "The Hubble Space Telescope has been in operation since 1990.",
+        "Source": "Unknown",
+        "Category": "Space Telescope"
+    },
+    {
+        "Text": "Saturn's moon Titan has lakes and rivers of liquid methane and ethane.",
+        "Source": "Unknown",
+        "Category": "Titan"
+    },
+    {
+        "Text": "Space tourism is becoming commercially possible.",
+        "Source": "Unknown",
+        "Category": "Space Travel"
+    },
+    {
+        "Text": "Most stars in the Milky Way are red dwarfs.",
+        "Source": "Unknown",
+        "Category": "Stars"
+    },
+    {
+        "Text": "The universe is expanding faster and faster.",
+        "Source": "Unknown",
+        "Category": "Universe"
+    },
+    {
+        "Text": "The largest known star is UY Scuti, about 1,700 times the Sun's diameter.",
+        "Source": "Unknown",
+        "Category": "Stars"
+    },
+    {
+        "Text": "On Mars, the sky is pink during the day and blue at sunset.",
+        "Source": "Unknown",
+        "Category": "Mars"
+    },
+    {
+        "Text": "A supernova can shine brighter than its entire galaxy.",
+        "Source": "Unknown",
+        "Category": "Supernova"
+    },
+    {
+        "Text": "Black holes can collide and create gravitational waves.",
+        "Source": "Unknown",
+        "Category": "Black Hole"
+    },
+    {
+        "Text": "It takes 225 million years for the Sun to orbit once around the Milky Way.",
+        "Source": "Unknown",
+        "Category": "Sun"
+    },
+    {
+        "Text": "Mercury has almost no atmosphere.",
+        "Source": "Unknown",
+        "Category": "Mercury"
+    },
+    {
+        "Text": "The ISS has been visited by astronauts from over 15 countries.",
+        "Source": "Unknown",
+        "Category": "ISS"
+    },
+    {
+        "Text": "A day on Jupiter lasts only 10 hours.",
+        "Source": "Unknown",
+        "Category": "Jupiter"
+    },
+    {
+        "Text": "The longest spacewalk lasted 8 hours and 56 minutes.",
+        "Source": "Unknown",
+        "Category": "Spacewalk"
+    },
+    {
+        "Text": "On the Moon, footprints can remain for millions of years.",
+        "Source": "Unknown",
+        "Category": "Moon"
+    },
+    {
+        "Text": "Mars has two moons – Phobos and Deimos.",
+        "Source": "Unknown",
+        "Category": "Mars"
+    },
+    {
+        "Text": "The universe may contain over two trillion galaxies.",
+        "Source": "Unknown",
+        "Category": "Universe"
+    },
+    {
+        "Text": "Earth is the only known planet with liquid water on its surface.",
+        "Source": "Unknown",
+        "Category": "Earth"
+    },
+    {
+        "Text": "A black hole can distort time around it.",
+        "Source": "Unknown",
+        "Category": "Black Hole"
+    },
+    {
+        "Text": "Saturn's moon Enceladus sprays water vapor into space.",
+        "Source": "Unknown",
+        "Category": "Enceladus"
+    },
+    {
+        "Text": "The closest star after the Sun is Proxima Centauri.",
+        "Source": "Unknown",
+        "Category": "Stars"
+    },
+    {
+        "Text": "Light from the Andromeda Galaxy takes about 2.5 million years to reach us.",
+        "Source": "Unknown",
+        "Category": "Andromeda"
+    },
+    {
+        "Text": "Jupiter has more than 90 known moons.",
+        "Source": "Unknown",
+        "Category": "Jupiter"
+    },
+    {
+        "Text": "A comet is made of ice, rock, and dust.",
+        "Source": "Unknown",
+        "Category": "Comet"
+    },
+    {
+        "Text": "The solar wind is a stream of charged particles from the Sun.",
+        "Source": "Unknown",
+        "Category": "Sun"
+    },
+    {
+        "Text": "Astronauts float in space not because there is no gravity, but because they are in free fall.",
+        "Source": "Unknown",
+        "Category": "Space"
+    },
+    {
+        "Text": "The first animals in orbit were fruit flies in 1947.",
+        "Source": "Unknown",
+        "Category": "Space History"
+    },
+    {
+        "Text": "Mars may have had oceans billions of years ago.",
+        "Source": "Unknown",
+        "Category": "Mars"
+    },
+    {
+        "Text": "The universe became transparent to light about 380,000 years after the Big Bang.",
+        "Source": "Unknown",
+        "Category": "Universe"
+    },
+    {
+        "Text": "The Moon has no atmosphere, so the sky is always black.",
+        "Source": "Unknown",
+        "Category": "Moon"
+    },
+    {
+        "Text": "Shooting stars are actually meteors burning up in the atmosphere.",
+        "Source": "Unknown",
+        "Category": "Meteors"
+    },
+    {
+        "Text": "There is a galaxy that smells like rum and tastes like raspberries (Sagittarius B2).",
+        "Source": "Unknown",
+        "Category": "Galaxy"
+    },
+    {
+        "Text": "There are more molecules in a cup of water than there are stars in the universe.",
+        "Source": "Unknown",
+        "Category": "Universe"
+    },
+    {
+        "Text": "The Sun does not burn; it undergoes nuclear fusion.",
+        "Source": "Unknown",
+        "Category": "Sun"
+    },
+    {
+        "Text": "Mars has seasons just like Earth.",
+        "Source": "Unknown",
+        "Category": "Mars"
+    },
+    {
+        "Text": "There are planets that float freely in space without a star.",
+        "Source": "Unknown",
+        "Category": "Planets"
+    },
+    {
+        "Text": "The largest known galaxy is IC 1101, over 6 million light-years in diameter.",
+        "Source": "Unknown",
+        "Category": "Galaxy"
+    },
+    {
+        "Text": "If you fell into a black hole, time would slow down for you relative to the outside world.",
+        "Source": "Unknown",
+        "Category": "Black Hole"
+    },
+    {
+        "Text": "Venus rotates backwards compared to most planets.",
+        "Source": "Unknown",
+        "Category": "Venus"
+    },
+    {
+        "Text": "The universe has no center.",
+        "Source": "Unknown",
+        "Category": "Universe"
+    },
+    {
+        "Text": "Astronauts grow taller in space because their spines stretch out.",
+        "Source": "Unknown",
+        "Category": "Space"
+    },
+    {
+        "Text": "Jupiter's Great Red Spot is a storm that has lasted at least 350 years.",
+        "Source": "Unknown",
+        "Category": "Jupiter"
+    },
+    {
+        "Text": "Saturn could float in water if there were a large enough ocean.",
+        "Source": "Unknown",
+        "Category": "Saturn"
+    },
+    {
+        "Text": "A day on the Moon is about 29 Earth days long.",
+        "Source": "Unknown",
+        "Category": "Moon"
+    },
+    {
+        "Text": "Neptune has the fastest winds in the solar system – up to 2,100 km/h.",
+        "Source": "Unknown",
+        "Category": "Neptune"
+    },
+    {
+        "Text": "The Milky Way and Andromeda will collide in about 4 billion years.",
+        "Source": "Unknown",
+        "Category": "Milky Way"
+    },
+    {
+        "Text": "There are planets where it rains glass sideways.",
+        "Source": "Unknown",
+        "Category": "Planets"
+    },
+    {
+        "Text": "The average temperature of the universe is -270°C.",
+        "Source": "Unknown",
+        "Category": "Universe"
+    },
+    {
+        "Text": "Most meteors burn up before reaching Earth's surface.",
+        "Source": "Unknown",
+        "Category": "Meteors"
+    },
+    {
+        "Text": "The first satellite in space was Sputnik 1 in 1957.",
+        "Source": "Unknown",
+        "Category": "Space History"
+    },
+    {
+        "Text": "Stars can live for billions of years.",
+        "Source": "Unknown",
+        "Category": "Stars"
+    },
+    {
+        "Text": "There are dwarf galaxies orbiting the Milky Way.",
+        "Source": "Unknown",
+        "Category": "Galaxy"
+    },
+    {
+        "Text": "Astronauts can see 16 sunrises and sunsets each day on the ISS.",
+        "Source": "Unknown",
+        "Category": "ISS"
+    },
+    {
+        "Text": "A white dwarf is the final stage of many stars' lives.",
+        "Source": "Unknown",
+        "Category": "Stars"
+    },
+    {
+        "Text": "The largest moon in the solar system is Ganymede.",
+        "Source": "Unknown",
+        "Category": "Moons"
+    },
+    {
+        "Text": "Some galaxies are moving away from us faster than light due to the expansion of the universe.",
+        "Source": "Unknown",
+        "Category": "Galaxy"
+    },
+    {
+        "Text": "A day on Neptune is about 16 hours long.",
+        "Source": "Unknown",
+        "Category": "Neptune"
+    },
+    {
+        "Text": "Space smells, according to astronauts, like welding fumes and grilled meat.",
+        "Source": "Unknown",
+        "Category": "Space"
+    },
+    {
+        "Text": "Meteorite impacts occur on Earth every day, but most are small.",
+        "Source": "Unknown",
+        "Category": "Meteorites"
+    },
+    {
+        "Text": "A pulsar is a type of rotating neutron star that emits radio waves.",
+        "Source": "Unknown",
+        "Category": "Neutron Star"
+    },
+    {
+        "Text": "Saturn's rings are only a few hundred meters thick.",
+        "Source": "Unknown",
+        "Category": "Saturn"
+    },
+    {
+        "Text": "The first woman in space was Valentina Tereshkova in 1963.",
+        "Source": "Unknown",
+        "Category": "Space History"
+    },
+    {
+        "Text": "The Sun will eventually become a red giant and swallow the inner planets.",
+        "Source": "Unknown",
+        "Category": "Sun"
+    },
+    {
+        "Text": "A galaxy can contain hundreds of billions of planets.",
+        "Source": "Unknown",
+        "Category": "Galaxy"
+    },
+    {
+        "Text": "Jupiter acts as a 'shield' and catches many comets.",
+        "Source": "Unknown",
+        "Category": "Jupiter"
+    },
+    {
+        "Text": "Some stars explode and leave behind black holes.",
+        "Source": "Unknown",
+        "Category": "Stars"
+    },
+    {
+        "Text": "The Moon has volcanic mountains, but they are inactive.",
+        "Source": "Unknown",
+        "Category": "Moon"
+    },
+    {
+        "Text": "There are planets with multiple sunrises each day.",
+        "Source": "Unknown",
+        "Category": "Planets"
+    },
+    {
+        "Text": "The Sun's surface is about 5,500°C.",
+        "Source": "Unknown",
+        "Category": "Sun"
+    },
+    {
+        "Text": "The universe might be infinite.",
+        "Source": "Unknown",
+        "Category": "Universe"
+    },
+    {
+        "Text": "Astronauts train underwater to prepare for weightlessness.",
+        "Source": "Unknown",
+        "Category": "Space"
+    },
+    {
+        "Text": "It can rain sulfuric acid on Venus.",
+        "Source": "Unknown",
+        "Category": "Venus"
+    },
+    {
+        "Text": "Spacecraft can use gravity assists to travel faster.",
+        "Source": "Unknown",
+        "Category": "Space Travel"
+    },
+    {
+        "Text": "Most comets come from the Oort Cloud.",
+        "Source": "Unknown",
+        "Category": "Comet"
+    },
+    {
+        "Text": "There may be more planets in the universe than stars.",
+        "Source": "Unknown",
+        "Category": "Planets"
+    },
+    {
+        "Text": "The cosmic microwave background is an echo of the Big Bang.",
+        "Source": "Unknown",
+        "Category": "Universe"
+    }
+]
